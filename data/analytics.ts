@@ -74,3 +74,5 @@ const data: AnalyticsItem[] = [
     amt: 2181,
   },
 ];
+
+export default data;
